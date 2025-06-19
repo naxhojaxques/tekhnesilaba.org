@@ -1,40 +1,48 @@
-# 🌱 Tékhne Sílaba
+# Tékhne Sílaba
 
-**Tékhne Sílaba** es una tecnología viva.  
-Nace desde la conciencia, el cuidado y la regeneración.  
-No busca colonizar: se ofrece como gesto, no como producto.  
-No se vende: se siembra.  
+**Tecnologías nacidas desde el cuidado.**
 
----
+Tékhne Sílaba es un proyecto vivo que explora nuevas formas de construir tecnología desde la conciencia, el lenguaje y la regeneración.  
+Este repositorio contiene la primera manifestación pública del proyecto:  
+la **Licencia del Lenguaje Vivo** y su **Manifiesto fundacional**.
 
-## 📁 Contenido de este repositorio
-
-- `index.html` — Página principal del proyecto.  
-- `manifiesto.html` — Acceso en línea al Manifiesto del Lenguaje Vivo.  
-- `style.css` — Hoja de estilo compartida por ambas páginas.  
-- `/pdfs/` — Carpeta que contiene los archivos descargables en PDF:
-  - **Licencia del Lenguaje Vivo**
-  - **Manifiesto del Lenguaje Vivo**
+🌱 Este sitio es más que un repositorio: es un campo fértil donde el lenguaje y la técnica vuelven a encontrarse.
 
 ---
 
-## 🧬 Licencia
+## 📂 Contenidos
 
-Este proyecto está protegido por la **Licencia del Lenguaje Vivo**  
-Registro en Safe Creative: `2505061668094`  
-➡ [Consultar la licencia](https://naxhojaxques.github.io/tekhnesilaba.org/pdfs/licencia-lenguaje-vivo.pdf)
-
----
-
-## 🌍 Sitio web
-
-Versión publicada del proyecto:  
-➡ [`https://naxhojaxques.github.io/tekhnesilaba.org/`](https://naxhojaxques.github.io/tekhnesilaba.org/)
+- `index.html` — Página principal del sitio
+- `manifiesto.html` — Manifiesto del Lenguaje Vivo
+- `licencia.html` — Texto completo de la Licencia del Lenguaje Vivo
+- `/pdfs/` — Carpeta con los documentos en PDF
+- `style.css` — Estilo visual del sitio
 
 ---
 
-## 🐚 Notas
+## 🤝 Cómo colaborar
 
-Este es un proyecto en evolución.  
-Toda transformación futura se realizará en coherencia con el lenguaje vivo que lo sostiene.  
-Quien desee adoptar, cuidar o inspirarse en este gesto, encontrará en esta semilla un punto de partida.
+Este proyecto está abierto a quienes resuenen con su llamado.  
+Si deseas entrar en contacto, puedes escribir a:
+
+📬 contacto@tekhnesilaba.org
+
+---
+
+## 🕊️ Licencia
+
+Este repositorio está publicado bajo la **Licencia del Lenguaje Vivo**.  
+Puedes leerla completa en la sección correspondiente o descargarla desde el sitio.
+
+---
+
+## 🌍 Sitio online
+
+El sitio web del proyecto está disponible en:
+
+🔗 [https://tekhnesilaba.org](https://tekhnesilaba.org)
+
+---
+
+> *Tékhne Sílaba no es una empresa, ni una marca. Es un gesto.  
+> Una tecnología sembrada como pregunta.*

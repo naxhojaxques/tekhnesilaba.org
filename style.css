@@ -68,3 +68,11 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+/* Encabezado principal */
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #1e1e1e;
+}
